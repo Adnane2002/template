@@ -1,0 +1,126 @@
+.navbar{
+  padding:10px 30px;
+}
+.first-text{
+  font-weight: 800;
+  font-size: 46px;
+  line-height: 60px;
+  letter-spacing: -0.015em;  
+  color: #292D33;
+  width: 540px;
+  height: 120px;
+}
+.second-text{
+  height: 132px;
+width: 540px;
+left: 0px;
+top: 150px;
+}
+.nav-item{
+  padding-left: 15px;
+}
+.para{
+  width: 450px;
+  margin: auto;
+  padding: 50px;
+}
+.background{
+  background-color: #F1F6FA;
+}
+.size1{
+height: 800px;
+}
+.size2{
+  height: 680px;
+}
+.cards{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 30px;
+border-radius: 15px;
+width: 300px;
+height: 350px;
+}
+.tags{
+   text-decoration: none;
+   padding:5px;
+   border: #e4e4e4 2px solid;
+   border-radius: 10%;
+   margin: 0 5px;
+}
+.trust-title{
+  width: 400px;
+height: 120px;
+}
+.cards-trust{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 50px 20px 20px;
+  gap: 20px;
+  width: 470px;
+  height: 339px;
+  position: relative;
+}
+.card-text{
+  width: 390px;
+font-size: 16px;
+}
+.image-card{
+  position: absolute;
+  top: -40px;
+  left: 35px;
+}
+.btn-trust{
+   padding:5px;
+  background-color: #F7F7F7;
+   border-radius: 10%;
+   margin: 0 5px;
+   padding: 10px 30px;
+}
+.projects{
+width: 1480px;
+height: 150px;
+color: white;
+}
+.contact-info{
+  width: 550px;
+}
+.contact-form{
+  width: 445px;
+height: 583px;
+position: relative;
+}
+.send{
+  position: absolute;
+  bottom: 30px;
+  right: 10px;
+  padding: 5px 40px;
+}
+.contact input.form-control {
+  border: none;
+  border-bottom: 1px solid #000000;
+  margin: 15px 5px;
+}
+.newsletter input {
+  border: 1px solid black;
+  outline: none
+}
+.subscribe{
+  width: 1480px;
+  height: 200px;
+  padding: 60px 0px;
+}
+.list li a{
+  color: #000000;
+}
+.list li a{
+  color: #000000;
+}
+.contact-link{
+  width: 200px;
+}
+.border{
+  border-bottom: #292D33 1px solid;
+}
